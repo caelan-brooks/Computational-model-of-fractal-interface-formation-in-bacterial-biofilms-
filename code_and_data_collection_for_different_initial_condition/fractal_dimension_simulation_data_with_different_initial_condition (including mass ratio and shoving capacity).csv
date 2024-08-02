@@ -1,4 +1,3 @@
-fractal_dimension_simulation_data_with_different_initial_condition (including mass ratio and shoving capacity)(2)
 initial_condition,           mass_ratio_of_matrix_tomotile,           shoving_capacity,           number_of_cells_and_spore,ratio_of_cell_to_spore,           fractal_dimension,inner_motile_radius_when_frozen,           outer_biofilm_radius_when_frozen,motile_radius_growth,biofilm_radius_growth,inner_motile_radius_when_frozen/outer_biofilm_radius_when_frozen
 1E+00,1E+00,1E+00,1.77E+02,1.2125E+00,1.01821820754513E+00,5.55662298161641E+00,7.50605421340207E+00,0E+00,0E+00,7.40285484708471E-01
 1E+00,1E+00,1E+00,1.77E+02,1.2125E+00,1.01821820754513E+00,5.55662298161641E+00,7.50605421340207E+00,0E+00,0E+00,7.40285484708471E-01
